@@ -1,1 +1,2 @@
 1er ligne fichier file2
+2eme ligne fichier file2
